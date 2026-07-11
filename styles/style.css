@@ -259,15 +259,15 @@ header .contacts p {
   text-align: center;
 }
 
-.footer-menu-list-active-item {
-  border: none;
-}
-
 .footer-menu-list-item {
   font-size: 18px;
   border-bottom: 1px solid black;
   text-decoration: none;
 
+}
+
+.footer-menu-list-active-item {
+  border: none;
 }
 
 .footer-socials-list {
